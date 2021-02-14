@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: aqua;
+}
